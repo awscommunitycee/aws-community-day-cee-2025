@@ -1,0 +1,18 @@
+{
+  "id": "karoly-sepsy",
+  "name": "Károly Sepsy",
+  "title": "CBDO",
+  "company": "TC2",
+  "country": "Hungary",
+  "bio": "Cloud professional with over a decade consulting and engineering experience in Public Cloud and DevOps space, bridging business and IT.",
+  "linkedin": "https://www.linkedin.com/in/ksepsy/",
+  "sessions": [
+    "SPR003"
+  ],
+  "session_titles": [
+    "TC2 FireMan - the ultimate firewall manager for AWS"
+  ],
+  "image": "speakers/images/karoly-sepsy.jpg",
+  "co_speaker": "balint-tukacs,sandor-dudas",
+  "aws_programs": {}
+}
