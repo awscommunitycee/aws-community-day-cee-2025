@@ -1,0 +1,20 @@
+{
+  "id": "SPR004",
+  "title": "Our Top 3 AWS Cost Victories: Practical Infrastructure Optimizations That Delivered Results",
+  "stage": "sponsor-stage",
+  "start_time": "12:15",
+  "end_time": "12:45",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "akos-putoczky"
+  ],
+  "abstract": "Cloud costs spiraling out of control? You're not alone. In this session, we'll share three real-world AWS infrastructure optimizations that delivered game-changing results for our clients, cutting costs by millions while maintaining - and often improving - performance and functionality. Through detailed case studies, you'll discover practical, actionable strategies that you can implement immediately in your own AWS environment. Each story reveals the specific challenges we faced, the optimization techniques we applied, and the measurable impact on both costs and performance. From networking to compute, these aren't theoretical concepts, they're battle-tested solutions that delivered real savings.",
+  "language": "English",
+  "audience_capacity": 50,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
