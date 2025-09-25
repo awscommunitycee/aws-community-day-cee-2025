@@ -13,6 +13,9 @@
     "TC2 FireMan - the ultimate firewall manager for AWS"
   ],
   "image": "speakers/images/karoly-sepsy.jpg",
-  "co_speaker": "balint-tukacs,sandor-dudas",
+  "co_speakers": [
+    "balint-tukacs",
+    "sandor-dudas"
+  ],
   "aws_programs": {}
 }
