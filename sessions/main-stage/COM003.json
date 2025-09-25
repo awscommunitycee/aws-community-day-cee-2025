@@ -1,0 +1,20 @@
+{
+  "id": "COM003",
+  "title": "Colorful quantum randomness",
+  "stage": "main-stage",
+  "start_time": "10:40",
+  "end_time": "11:25",
+  "duration_minutes": 45,
+  "speaker_ids": [
+    "jakub-gaj"
+  ],
+  "abstract": "Experience the power of quantum superposition through this visual hands-on demo to generate truly random colors using actual quantum computers available on Amazon Braket. See how quantum randomness can supercharge real-world applications in cryptography, material science simulation, and optimization problems that classical computers struggle to solve efficiently. Showcase of quantum algorithm development using OpenQASM and Qiskit frameworks, running on IBM Quantum and Amazon Braket platforms. No prior quantum physics knowledge required, just bring your curiosity for emerging technologies!",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
