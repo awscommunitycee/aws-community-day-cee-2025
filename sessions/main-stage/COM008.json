@@ -1,0 +1,21 @@
+{
+  "id": "COM008",
+  "title": "IAM policy mishaps: A cautionary tale of cloud misconfigurations",
+  "stage": "main-stage",
+  "start_time": "15:35",
+  "end_time": "16:05",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "andoni-alonso-fernandez",
+    "samuel-burgos-lopez"
+  ],
+  "abstract": "We all know the principle of least privilege, but… how easy is it to apply in the cloud? In this talk, we will explain what IAM policy evaluation logic is and how it works. We will go through several cases that demonstrate how complex it can be to create a secure IAM policy and what the consequences might be. We will start with a simple example using S3, avoiding unintended public access. Then we will look at SQS, and how configuring a policy through the UI can backfire. Finally, we will wrap up with an example of integration with GitHub Actions.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
