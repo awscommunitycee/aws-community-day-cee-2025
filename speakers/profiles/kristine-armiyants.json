@@ -1,0 +1,21 @@
+{
+  "id": "kristine-armiyants",
+  "name": "Kristine Armiyants",
+  "title": "AWS Hero, Founder & Leader",
+  "company": "AWS UG Armenia",
+  "country": "Armenia",
+  "bio": "I write code, articles, create videos, lead AWS UG Armenia & stay curious about life and inspirations.",
+  "linkedin": "https://www.linkedin.com/in/kristine-armiyants-42b69b12b/",
+  "sessions": [
+    "COM009"
+  ],
+  "session_titles": [
+    "Closing Keynote"
+  ],
+  "image": "speakers/images/kristine-armiyants.jpg",
+  "co_speaker": "maria-encinar",
+  "aws_programs": {
+    "aws_hero": true,
+    "aws_user_group_leader": true
+  }
+}
