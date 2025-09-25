@@ -1,0 +1,19 @@
+{
+  "id": "boaz-ziniman",
+  "name": "Boaz Ziniman",
+  "title": "Principal Developer Advocate",
+  "company": "AWS",
+  "country": "Israel",
+  "bio": "Boaz Ziniman is a Principal Developer Advocate at Amazon Web Services. He raises customer awareness of AWS services and helps customers understand the benefits that the AWS Cloud can deliver. Boaz has many years of experience with web development and operations, architecture, IT management, and cloud. Prior to joining AWS, Boaz worked with a variety of key Israeli startups – managing development and operations teams as well as leading cloud adoption and partnerships with major cloud vendors.",
+  "linkedin": "https://www.linkedin.com/in/bziniman/",
+  "sessions": [
+    "COM005"
+  ],
+  "session_titles": [
+    "Amazon Culture of Innovation"
+  ],
+  "image": "speakers/images/boaz-ziniman.jpg",
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
