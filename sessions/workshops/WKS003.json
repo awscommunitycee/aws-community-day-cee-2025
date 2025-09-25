@@ -1,0 +1,20 @@
+{
+  "id": "WKS003",
+  "title": "Building Remote MCP Servers on AWS and Cloudflare",
+  "stage": "workshops",
+  "start_time": "12:30",
+  "end_time": "14:00",
+  "duration_minutes": 90,
+  "speaker_ids": [
+    "gyorgy-mark-varga"
+  ],
+  "abstract": "Learn what Model Context Protocol (MCP) is and why it matters for your products. We'll start with the basics, then build and deploy an MCP server to both AWS and Cloudflare. You'll create a working server, deploy it to the cloud, and test it with Claude.ai to see how it improves user interactions. We'll cover practical deployment strategies and show how MCP fits into agent-based workflows. This workshop is for developers and technical teams who want hands-on experience with MCP and cloud deployment. You'll walk away with a working remote MCP server and the knowledge to create one for your own product(s).",
+  "language": "English",
+  "audience_capacity": 26,
+  "room": "Hajó",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
