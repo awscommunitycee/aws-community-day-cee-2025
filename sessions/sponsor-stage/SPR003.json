@@ -1,0 +1,22 @@
+{
+  "id": "SPR003",
+  "title": "TC2 FireMan - the ultimate firewall manager for AWS",
+  "stage": "sponsor-stage",
+  "start_time": "11:30",
+  "end_time": "12:00",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "karoly-sepsy",
+    "balint-tukacs",
+    "sandor-dudas"
+  ],
+  "abstract": "We demonstrate how you can simplify and unify the management of the vast number of firewall rules (including Security Group and AWS Network Firewall rules) in an enterprise-level AWS Landing Zone using TC2's FireMan tool.",
+  "language": "English",
+  "audience_capacity": 50,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
