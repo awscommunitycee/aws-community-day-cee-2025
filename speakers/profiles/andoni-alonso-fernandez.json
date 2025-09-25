@@ -13,7 +13,9 @@
     "IAM policy mishaps: A cautionary tale of cloud misconfigurations"
   ],
   "image": "speakers/images/andoni-alonso-fernandez.jpg",
-  "co_speaker": "samuel-burgos-lopez",
+  "co_speakers": [
+    "samuel-burgos-lopez"
+  ],
   "aws_programs": {
     "aws_community_builder": true,
     "aws_user_group_leader": true
