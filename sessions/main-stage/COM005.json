@@ -1,0 +1,20 @@
+{
+  "id": "COM005",
+  "title": "Making sense of AWS Serverless operations",
+  "stage": "main-stage",
+  "start_time": "12:30",
+  "end_time": "13:00",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "vadym-kazulkin"
+  ],
+  "abstract": "There is a misunderstanding, that everything is possible with the Serverless Services in AWS, for example that your Lambda function may scale without limitations. But each AWS service (not only Serverless) has a big list of quotas that everybody needs to understand and take into account during the development.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
