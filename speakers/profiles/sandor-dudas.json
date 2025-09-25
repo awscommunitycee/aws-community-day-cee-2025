@@ -1,0 +1,21 @@
+{
+  "id": "sandor-dudas",
+  "name": "Sándor Dudás",
+  "title": "Senior Cloud Architect",
+  "company": "TC2",
+  "country": "Hungary",
+  "bio": "25+ years of experience in IT Infrastructure, became a cloud evangelist in recent years.",
+  "linkedin": "https://www.linkedin.com/in/sandordudas/",
+  "sessions": [
+    "SPR003"
+  ],
+  "session_titles": [
+    "TC2 FireMan - the ultimate firewall manager for AWS"
+  ],
+  "image": "speakers/images/sandor-dudas.jpg",
+  "co_speakers": [
+    "karoly-sepsy",
+    "balint-tukacs"
+  ],
+  "aws_programs": {}
+}
