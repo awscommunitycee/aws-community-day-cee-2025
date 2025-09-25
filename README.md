@@ -75,7 +75,7 @@ Everything in Premium ticket plus:
 | 2:00 - 2:45 PM | **Amazon's Culture of Innovation** | Boaz Ziniman |
 | 2:55 - 3:25 PM | Elevating Event Photography Workflow with AWS | Dmytro Hlotenko |
 | 3:35 - 4:05 PM | IAM Policy Mishaps: A Cautionary Tale | Andoni Alonso Fernández & Samuel Burgos López |
-| 4:15 - 4:45 PM | **Closing Keynote** - AWS Community: choose your own adventure | María Encinar |
+| 4:15 - 4:45 PM | **Closing Keynote** - AWS Community: choose your own adventure | María Encinar & Kristine Armiyants |
 | 4:45 - 5:00 PM | Amazon Q Developer Challenge - Results & Prize Draw | |
 
 ## 🌍 Regional Impact
