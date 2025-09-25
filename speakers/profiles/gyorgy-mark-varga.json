@@ -1,0 +1,17 @@
+{
+  "id": "gyorgy-mark-varga",
+  "name": "György Márk Varga",
+  "title": "Product Developer",
+  "company": "Shiwaforce",
+  "country": "Hungary",
+  "bio": "I began my software development career in early 2018. With a background in business informatics, I've been passionate about both technology and finance from the start of my career. For me, development isn't just a profession—it's a hobby I genuinely enjoy. As a developer, I constantly explore new technologies and innovative solutions. Beyond coding, I regularly give presentations, conduct training sessions, and appear on podcasts. In my daily work, I focus on AI development and integration, working with technologies like MCP to build intelligent systems that enhance how we interact with applications.",
+  "linkedin": "https://www.linkedin.com/in/gy%C3%B6rgy-m%C3%A1rk-varga-4b5862132/",
+  "sessions": [
+    "WKS003"
+  ],
+  "session_titles": [
+    "Building Remote MCP Servers on AWS and Cloudflare"
+  ],
+  "image": "speakers/images/gyorgy-mark-varga.jpg",
+  "aws_programs": {}
+}
