@@ -7,7 +7,7 @@
   "bio": "I began my career as a Sysadmin, evolved to Site Reliability Engineer, and a few years ago crossed over to the dark side… Security. A long-time CTF enthusiast and hooked on anything with a scoreboard. Currently, I'm starting unicrons.cloud project aiming to share cloud security knowledge and resources with the community.",
   "linkedin": "https://www.linkedin.com/in/andoniaf/",
   "sessions": [
-    "COM007"
+    "COM008"
   ],
   "session_titles": [
     "IAM policy mishaps: A cautionary tale of cloud misconfigurations"
