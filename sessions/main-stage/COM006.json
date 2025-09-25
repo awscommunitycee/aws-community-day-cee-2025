@@ -1,0 +1,20 @@
+{
+  "id": "COM006",
+  "title": "Amazon's culture of innovation",
+  "stage": "main-stage",
+  "start_time": "14:00",
+  "end_time": "14:45",
+  "duration_minutes": 45,
+  "speaker_ids": [
+    "boaz-ziniman"
+  ],
+  "abstract": "Amazon has a peculiar approach to innovation that is intrinsically linked to how we use technology, and organize our teams. In this session, you'll be introduced to how we innovate at Amazon, organized around four interdependent elements: Culture, Mechanisms, Architecture, and Organization. You'll have the chance to dive deeper on each topic, including Leadership Principles, Working Backwards, and 2-Pizza Teams.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
