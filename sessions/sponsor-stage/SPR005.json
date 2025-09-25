@@ -1,0 +1,20 @@
+{
+  "id": "SPR005",
+  "title": "AWS MCP Servers in Practice",
+  "stage": "sponsor-stage",
+  "start_time": "14:30",
+  "end_time": "15:00",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "sandor-kaman"
+  ],
+  "abstract": "AWS Model Context Protocols (MCPs) servers open new ways for developers to securely interact with AWS services directly from their IDEs. In this session, we'll explore how MCPs can streamline real-world development workflows—such as provisioning resources, managing infrastructure, or querying AWS services—without leaving your development environment.",
+  "language": "English",
+  "audience_capacity": 50,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
