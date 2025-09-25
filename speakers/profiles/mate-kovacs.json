@@ -13,6 +13,8 @@
     "How Athene AI Learned to Read Jira Tickets - MCP Integration in a Bank's Support Team"
   ],
   "image": "speakers/images/mate-kovacs.jpg",
-  "co_speaker": "peter-tar",
+  "co_speakers": [
+    "peter-tar"
+  ],
   "aws_programs": {}
 }
