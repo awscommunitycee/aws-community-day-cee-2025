@@ -1,0 +1,19 @@
+{
+  "id": "massimo-re-ferre",
+  "name": "Massimo Re Ferrè",
+  "title": "Senior Principal Product Manager",
+  "company": "AWS",
+  "country": "Italy",
+  "bio": "Massimo is Senior Principal Product Manager at AWS. He has spent most of his time at AWS specialising on compute services (including containers, functions, serverless and more). His current focus area is \"Agentic AI\" and, specifically, its developer experience angle.",
+  "linkedin": "https://www.linkedin.com/in/massimoreferre/",
+  "sessions": [
+    "COM001"
+  ],
+  "session_titles": [
+    "Opening Keynote - Generative AI: what I learned in the last 3 years"
+  ],
+  "image": "speakers/images/massimo-re-ferre.jpg",
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
