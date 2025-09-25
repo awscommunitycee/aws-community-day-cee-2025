@@ -1,0 +1,20 @@
+{
+  "id": "COM004",
+  "title": "Event-Driven and serverless in world of IoT",
+  "stage": "main-stage",
+  "start_time": "11:35",
+  "end_time": "12:20",
+  "duration_minutes": 45,
+  "speaker_ids": [
+    "jimmy-dahlqvist"
+  ],
+  "abstract": "In large-scale IoT systems, where thousands of devices are constantly communicating, data and control messages can flow unpredictably and at varying rates throughout the day. Serverless and event-driven architectures provide a dynamic and efficient solution to this challenge. In this session, we'll explore why serverless is a great fit for IoT, particularly in handling data ingestion and management. We'll dive into the key architectural patterns used in IoT systems, highlighting how event-driven design enables scalability, flexibility, and cost optimization. I'll also walk you through an architecture I designed for an IoT use case, showcasing the integration of various AWS services tailored for data ingestion, processing, and analytics. Along the way, we'll discuss the challenges encountered and lessons learned during development, offering actionable insights into the unique aspects of building serverless IoT solutions. Join me to understand how serverless and event-driven architectures can unlock the full potential of IoT, enabling resilient and scalable systems that are easy to manage and adapt to evolving demands.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
