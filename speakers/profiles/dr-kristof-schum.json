@@ -1,0 +1,22 @@
+{
+  "id": "dr-kristof-schum",
+  "name": "Dr. Kristof Schum",
+  "title": "Generative AI Leader (EMEA)",
+  "company": "Amazon Web Services (AWS)",
+  "country": "Spain",
+  "bio": "Dr. Kristof Schum is the Generative AI segment leader in EMEA at AWS. He is leading the consulting and technology partner strategy and implementation in the middle-layer (foundational models) of AWS GenAI Stack. After 5 years of management consulting experience and an MBA from Wharton, he joined Amazon as a product manager to lead Amazon Global Selling machine learning model building. He was teaching personalization, summarization and ML-for-business courses in Amazon's Machine Learning University, while presenting on the aforementioned topics at AWS re:Invent, re:MARS and Nvidia GTC. In Seattle, he led the global Machine Learning partner team for 5 years and now, based out of Barcelona, focuses on the European Generative AI community.",
+  "linkedin": "https://www.linkedin.com/in/dr-kristof-schum-45775438/",
+  "sessions": [
+    "WKS004"
+  ],
+  "session_titles": [
+    "Navigating the AWS Agentic AI Marketplace: A Practical Guide"
+  ],
+  "image": "speakers/images/dr-kristof-schum.jpg",
+  "co_speakers": [
+    "div-shekhar"
+  ],
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
