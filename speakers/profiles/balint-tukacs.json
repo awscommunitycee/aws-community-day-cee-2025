@@ -1,0 +1,21 @@
+{
+  "id": "balint-tukacs",
+  "name": "Bálint Tukacs",
+  "title": "Senior Cloud Architect",
+  "company": "TC2",
+  "country": "Hungary",
+  "bio": "12+ years in technology, AWS Cloud Architect driving solutions since 2015.",
+  "linkedin": "https://www.linkedin.com/in/balinttukacs/",
+  "sessions": [
+    "SPR003"
+  ],
+  "session_titles": [
+    "TC2 FireMan - the ultimate firewall manager for AWS"
+  ],
+  "image": "speakers/images/balint-tukacs.jpg",
+  "co_speakers": [
+    "karoly-sepsy",
+    "sandor-dudas"
+  ],
+  "aws_programs": {}
+}
