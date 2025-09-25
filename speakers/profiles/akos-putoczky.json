@@ -1,0 +1,17 @@
+{
+  "id": "akos-putoczky",
+  "name": "Ákos Putóczky",
+  "title": "Lead Solutions Architect",
+  "company": "Apex Lab",
+  "country": "Hungary",
+  "bio": "I love solving complex issues, whether it's with software, organizations, or people. Over the years, I've gained experience in building and leading teams, designing scalable systems, and improving development processes to create high-quality software. I lead many teams working on high complexity Cloud Systems, Backend or Web and Mobile applications, guiding both technical decisions and team growth. I enjoy balancing hands-on coding with mentoring and strategy—helping developers level up while also tackling challenging technical problems myself.",
+  "linkedin": "https://www.linkedin.com/in/akos-putoczky/",
+  "sessions": [
+    "SPR004"
+  ],
+  "session_titles": [
+    "Our Top 3 AWS Cost Victories: Practical Infrastructure Optimizations That Delivered Results"
+  ],
+  "image": "speakers/images/akos-putoczky.jpg",
+  "aws_programs": {}
+}
