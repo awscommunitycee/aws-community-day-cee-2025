@@ -13,7 +13,9 @@
     "Closing Keynote - AWS Community: choose your own adventure"
   ],
   "image": "speakers/images/kristine-armiyants.jpg",
-  "co_speaker": "maria-encinar",
+  "co_speakers": [
+    "maria-encinar"
+  ],
   "aws_programs": {
     "aws_hero": true,
     "aws_user_group_leader": true
