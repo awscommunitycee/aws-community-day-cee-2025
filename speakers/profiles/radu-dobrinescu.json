@@ -1,0 +1,22 @@
+{
+  "id": "radu-dobrinescu",
+  "name": "Radu Dobrinescu",
+  "title": "Senior Partner Solutions Architect",
+  "company": "AWS",
+  "country": "Romania",
+  "bio": "Radu Dobrinescu is a Senior Partner Solutions Architect at Amazon Web Services (AWS) with 17 years of technology experience across diverse roles. He focuses on strengthening the AWS partner ecosystem throughout Central and Eastern Europe, enabling partners to build effective cloud centers of excellence and deliver superior transformation journeys to their customers. As part of the Generative AI Ambassadors community in EMEA, at AWS Radu is leading generative AI adoption and transformation initiatives, helping organizations implement practical AI solutions that drive business value while navigating the technical and operational challenges of emerging AI technologies.",
+  "linkedin": "https://www.linkedin.com/in/radudobrinescu/",
+  "sessions": [
+    "WKS001"
+  ],
+  "session_titles": [
+    "Building Production-Ready Agentic AI Systems with Amazon Bedrock AgentCore: A Hands-On Workshop"
+  ],
+  "image": "speakers/images/radu-dobrinescu.jpg",
+  "co_speakers": [
+    "andra-somesan"
+  ],
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
