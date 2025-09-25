@@ -1,0 +1,21 @@
+{
+  "id": "mihaly-balassy",
+  "name": "Mihály Balassy",
+  "title": "Senior DevOps Engineer",
+  "company": "LaniSys",
+  "country": "Hungary",
+  "bio": "Senior DevOps engineer with over a decade of diverse IT experience, spanning startups to multinational corporations. Specializing in cloud transformation, serverless architectures, and DevOps best practices. A passionate educator, Mihaly has taught Linux at university level and completed the AWS New Voices speaker training. He has been a speaker at re:Invent, AWS's largest technological conference. His commitment to tech communities spans a decade, previously leading BlackBerry's Enterprise Developer Group in Hungary, and now as an AWS Community Builder and AWS User Group Leader.",
+  "linkedin": "https://www.linkedin.com/in/mihalybalassy/",
+  "sessions": [
+    "COM000"
+  ],
+  "session_titles": [
+    "Welcome Speech"
+  ],
+  "image": "speakers/images/mihaly-balassy.jpg",
+  "aws_programs": {
+    "aws_community_builder": true,
+    "aws_user_group_leader": true,
+    "aws_new_voices": true
+  }
+}
