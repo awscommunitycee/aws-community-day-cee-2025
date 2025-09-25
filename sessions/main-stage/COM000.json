@@ -1,0 +1,20 @@
+{
+  "id": "COM000",
+  "title": "Welcome Speech",
+  "stage": "main-stage",
+  "start_time": "09:00",
+  "end_time": "09:05",
+  "duration_minutes": 5,
+  "speaker_ids": [
+    "mihaly-balassy"
+  ],
+  "abstract": "Welcome address to open AWS Community Day CEE and introduce the day's program.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
