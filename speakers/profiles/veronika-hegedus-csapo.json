@@ -1,0 +1,17 @@
+{
+  "id": "veronika-hegedus-csapo",
+  "name": "Veronika Hegedűs-Csapó",
+  "title": "Business Development Manager",
+  "company": "TD SYNNEX Hungary",
+  "country": "Hungary",
+  "bio": "Veronika has worked at companies like T-Systems, Microsoft, and 4iG, helping organizations realize the business value of cloud technologies. With a background in digital transformation and innovation, she connects strategic goals with the work of tech teams, making cloud adoption meaningful and impactful.",
+  "linkedin": "https://www.linkedin.com/in/veronika-hegedus-csapo/",
+  "sessions": [
+    "SPR006"
+  ],
+  "session_titles": [
+    "Fast & Curious: AWS Edition"
+  ],
+  "image": "speakers/images/veronika-hegedus-csapo.jpg",
+  "aws_programs": {}
+}
