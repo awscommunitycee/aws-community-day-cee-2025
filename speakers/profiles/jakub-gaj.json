@@ -1,0 +1,20 @@
+{
+  "id": "jakub-gaj",
+  "name": "Jakub Gaj",
+  "title": "Cloud Solutions Architect",
+  "company": "Danske Bank",
+  "country": "Denmark",
+  "bio": "Sr Cloud Architect | AWS Community Builder | AWS New Voices Speaker",
+  "linkedin": "https://www.linkedin.com/in/jakubgaj/",
+  "sessions": [
+    "COM002"
+  ],
+  "session_titles": [
+    "Colorful quantum randomness"
+  ],
+  "image": "speakers/images/jakub-gaj.jpg",
+  "aws_programs": {
+    "aws_community_builder": true,
+    "aws_new_voices": true
+  }
+}
