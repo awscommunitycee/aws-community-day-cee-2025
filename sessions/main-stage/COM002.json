@@ -1,0 +1,20 @@
+{
+  "id": "COM002",
+  "title": "Serverless security - Nyx: Cloudonauts story",
+  "stage": "main-stage",
+  "start_time": "10:00",
+  "end_time": "10:30",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "marek-sottl"
+  ],
+  "abstract": "Embark on an immersive Cyberpunk adventure as we uncover the fate of Nyx, one of the last remaining Cloudonauts. In this session, you'll explore AWS DevSecOps security services through an engaging, interactive narrative. Discover how innovative solutions—leveraging advanced forms and AI—enhance your security, and learn about powerful tools you never knew existed, from AWS Code Guru to AWS Signer.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
