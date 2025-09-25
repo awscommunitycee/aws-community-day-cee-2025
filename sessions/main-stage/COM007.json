@@ -1,0 +1,20 @@
+{
+  "id": "COM007",
+  "title": "Elevating Event Photography Workflow with AWS: A Case Study from AWS Community Day DACH 2024",
+  "stage": "main-stage",
+  "start_time": "14:55",
+  "end_time": "15:25",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "dmytro-hlotenko"
+  ],
+  "abstract": "How would you approach a very niche-specific technical idea to link usually unlinkable? This session demonstrates how AWS services can transform traditional photography workflows through a comprehensive engineering solution using a strategic combination of technical principles. Using the AWS Community Day DACH 2024 as a case study, we'll explore how serverless architecture and AI services efficiently processed and organized over 8,000 event photos. The presentation will detail an integrated solution combining Amazon Rekognition, Bedrock, and Step Functions to automate photo organization and delivery. We'll examine how cognitive services enhance image processing, while data science principles improve accuracy and efficiency. The solution showcases practical applications of AWS services that significantly reduce manual work while improving delivery speed and accuracy. This session will be inspiring for people as an example of a building process approach and orchestration of technical ideas with AWS.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
