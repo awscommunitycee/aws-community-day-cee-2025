@@ -1,0 +1,21 @@
+{
+  "id": "COM009",
+  "title": "Closing Keynote - AWS Community: choose your own adventure",
+  "stage": "main-stage",
+  "start_time": "16:15",
+  "end_time": "16:45",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "kristine-armiyants",
+    "maria-encinar"
+  ],
+  "abstract": "Join us for an inspiring closing keynote that celebrates the AWS community journey. Explore different paths and opportunities within the AWS community ecosystem, learn how to choose your own adventure in community participation, and discover how community involvement can accelerate your professional growth and impact.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
