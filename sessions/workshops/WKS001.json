@@ -1,0 +1,22 @@
+{
+  "id": "WKS001",
+  "title": "Building Production-Ready Agentic AI Systems with Amazon Bedrock AgentCore: A Hands-On Workshop",
+  "stage": "workshops",
+  "start_time": "10:00",
+  "end_time": "11:30",
+  "duration_minutes": 90,
+  "speaker_ids": [
+    "andra-somesan",
+    "radu-dobrinescu"
+  ],
+  "abstract": "Transform your AI development skills by mastering Amazon Bedrock AgentCore, AWS's fully managed service for deploying intelligent, autonomous AI agents at enterprise scale. This intensive hands-on workshop takes you beyond basic chatbots to build sophisticated agentic AI systems capable of dynamic decision-making, tool usage, and complex task execution. Key Takeaways: - Deploy and scale secure AI agents using managed infrastructure - Integrate agents with external APIs and enterprise systems - Build custom tools and memory systems for enhanced capabilities - Implement production-grade monitoring and security controls Prerequisites: Basic familiarity with AWS services and Python programming.",
+  "prerequisites": "Basic familiarity with AWS services and Python programming",
+  "language": "English",
+  "audience_capacity": 26,
+  "room": "Hajó",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
