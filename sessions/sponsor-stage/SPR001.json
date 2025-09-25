@@ -1,0 +1,20 @@
+{
+  "id": "SPR001",
+  "title": "Mastering Edge Security & Performance: Cost-Optimized Strategies with CloudFront and AWS WAF",
+  "stage": "sponsor-stage",
+  "start_time": "10:00",
+  "end_time": "10:30",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "adam-novotny"
+  ],
+  "abstract": "In this session, we'll explore how Amazon CloudFront CDN and AWS WAF (Web Application Firewall) are evolving to meet the needs of modern applications. You'll learn about the latest enhancements, including the new CloudFront SaaS Manager integration, (L7) DDoS protections for AWS WAF, and more. We'll also cover strategies for cost optimization, helping you get the most value out of your Edge deployments.",
+  "language": "English",
+  "audience_capacity": 50,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2025-10-16",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
