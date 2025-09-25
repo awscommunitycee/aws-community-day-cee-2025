@@ -1,0 +1,20 @@
+{
+  "id": "maria-encinar",
+  "name": "María Encinar",
+  "title": "AWS User Groups Global Program Manager",
+  "company": "AWS",
+  "country": "Spain",
+  "bio": "Maria is part of the Developer Relations team at Amazon Web Services, where she leads the AWS User Group program globally. Prior to this, she led the developer community team at PagoNxt/Banco Santander and worked as a Community Specialist at Google, supporting developer communities across Central and Eastern Europe. She is passionate about the intersection of technology and community building and is dedicated to creating environments that foster learning, collaboration, and growth.",
+  "linkedin": "https://es.linkedin.com/in/mariaencinar",
+  "sessions": [
+    "COM009"
+  ],
+  "session_titles": [
+    "Closing Keynote - AWS Community: choose your own adventure"
+  ],
+  "image": "speakers/images/maria-encinar.jpg",
+  "co_speaker": "kristine-armiyants",
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
