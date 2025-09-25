@@ -1,0 +1,17 @@
+{
+  "id": "adam-novotny",
+  "name": "Adam Novotný",
+  "title": "AWS Solutions Architect",
+  "company": "Stormit",
+  "country": "Czech Republic",
+  "bio": "I'm an AWS Solutions Architect at Stormit, where I help clients design secure, scalable, and cost-effective cloud solutions. I specialize in building optimized environments using AWS services, drawing on my experience with content creation, infrastructure reviews, and cloud-native architectures.",
+  "linkedin": "https://www.linkedin.com/in/adam-novotn%C3%BD-65b060115/",
+  "sessions": [
+    "SPR001"
+  ],
+  "session_titles": [
+    "Mastering Edge Security & Performance: Cost-Optimized Strategies with CloudFront and AWS WAF"
+  ],
+  "image": "speakers/images/adam-novotny.jpg",
+  "aws_programs": {}
+}
