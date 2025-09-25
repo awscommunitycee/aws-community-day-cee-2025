@@ -1,0 +1,22 @@
+{
+  "id": "andra-somesan",
+  "name": "Andra Somesan",
+  "title": "Senior Solutions Architect",
+  "company": "AWS",
+  "country": "Romania",
+  "bio": "Andra Somesan is a Senior Solutions Architect at Amazon Web Services (AWS), based in Romania. She has transitioned from telco to IT with a focus on cloud and DevOps. She is curious to learn and excited to share the knowledge. In over 10 years of working experience, she has deepened her technical expertise and broadened her perspectives by diving into topics like community, inclusion, diversity, and EQ. Before joining AWS, Andra was an AWS Community Builder.",
+  "linkedin": "https://www.linkedin.com/in/andra-somesan/",
+  "sessions": [
+    "WKS001"
+  ],
+  "session_titles": [
+    "Building Production-Ready Agentic AI Systems with Amazon Bedrock AgentCore: A Hands-On Workshop"
+  ],
+  "image": "speakers/images/andra-somesan.jpg",
+  "co_speakers": [
+    "radu-dobrinescu"
+  ],
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
