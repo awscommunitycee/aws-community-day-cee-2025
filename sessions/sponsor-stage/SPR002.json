@@ -11,7 +11,7 @@
   ],
   "abstract": "Imagine a support team where Jira tickets are sometimes incomplete, ambiguous, or unnecessarily complicated, and valuable time is lost as a result. Now imagine an artificial intelligence that can \"read,\" interpret, and validate these tickets on its own, before a human even touches them. In our presentation, we'll share how we taught Athene AI to understand Jira tickets through MCP-based integration. We'll show how we built a Jira MCP server and designed a smart workflow that not only filters out incomplete or faulty tickets but also automates previously time-consuming manual checks. The result? Faster processing, fewer errors, and a happier support team – all powered by Athene AI.",
   "language": "English",
-  "audience_capacity": 50,
+  "audience_capacity": 40,
   "room": "Akvárium",
   "event_info": {
     "event_name": "AWS Community Day CEE",
