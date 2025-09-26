@@ -10,7 +10,7 @@
   ],
   "abstract": "Cloud costs spiraling out of control? You're not alone. In this session, we'll share three real-world AWS infrastructure optimizations that delivered game-changing results for our clients, cutting costs by millions while maintaining - and often improving - performance and functionality. Through detailed case studies, you'll discover practical, actionable strategies that you can implement immediately in your own AWS environment. Each story reveals the specific challenges we faced, the optimization techniques we applied, and the measurable impact on both costs and performance. From networking to compute, these aren't theoretical concepts, they're battle-tested solutions that delivered real savings.",
   "language": "English",
-  "audience_capacity": 50,
+  "audience_capacity": 40,
   "room": "Akvárium",
   "event_info": {
     "event_name": "AWS Community Day CEE",
