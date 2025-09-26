@@ -12,7 +12,7 @@
   ],
   "abstract": "We demonstrate how you can simplify and unify the management of the vast number of firewall rules (including Security Group and AWS Network Firewall rules) in an enterprise-level AWS Landing Zone using TC2's FireMan tool.",
   "language": "English",
-  "audience_capacity": 50,
+  "audience_capacity": 40,
   "room": "Akvárium",
   "event_info": {
     "event_name": "AWS Community Day CEE",
