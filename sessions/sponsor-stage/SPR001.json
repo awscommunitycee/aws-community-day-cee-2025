@@ -10,7 +10,7 @@
   ],
   "abstract": "In this session, we'll explore how Amazon CloudFront CDN and AWS WAF (Web Application Firewall) are evolving to meet the needs of modern applications. You'll learn about the latest enhancements, including the new CloudFront SaaS Manager integration, (L7) DDoS protections for AWS WAF, and more. We'll also cover strategies for cost optimization, helping you get the most value out of your Edge deployments.",
   "language": "English",
-  "audience_capacity": 50,
+  "audience_capacity": 40,
   "room": "Akvárium",
   "event_info": {
     "event_name": "AWS Community Day CEE",
