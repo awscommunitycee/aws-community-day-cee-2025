@@ -2,8 +2,8 @@
   "id": "WKS003",
   "title": "Building Remote MCP Servers on AWS and Cloudflare",
   "stage": "workshops",
-  "start_time": "12:30",
-  "end_time": "14:00",
+  "start_time": "12:20",
+  "end_time": "13:50",
   "duration_minutes": 90,
   "speaker_ids": [
     "gyorgy-mark-varga"
