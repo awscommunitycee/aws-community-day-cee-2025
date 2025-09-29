@@ -1,0 +1,20 @@
+{
+  "id": "linda-mohamed",
+  "name": "Linda Mohamed",
+  "title": "AWS Hero, Chairwoman",
+  "company": "Förderverein AWS",
+  "country": "Austria",
+  "bio": "Linda has been navigating the tech landscape for over a decade. She is specialized in Cloud Technologies, IT Process Optimization, and Agile Methodologies. When she is not guiding companies on their cloud journey, she is diving into AI/ML Services and Technologies, and sharing her insights at AWS community events and other tech platforms. Beyond her professional commitments, Linda is an AWS Community Hero and deeply involved in Women in Tech initiatives, advocating for greater representation and inclusivity. In Vienna, she is the familiar face behind AWS meetups and other community gatherings, creating a welcoming space where every voice is valued and heard. In addition, Linda holds the title of Chairwoman for the AWS Community DACH Support Association and is member of the Funding Advisory Board of netidee.",
+  "linkedin": "https://www.linkedin.com/in/linda-mohamed/",
+  "sessions": [
+    "WKS004"
+  ],
+  "session_titles": [
+    "Empowering Women in Tech"
+  ],
+  "image": "speakers/images/linda-mohamed.jpg",
+  "aws_programs": {
+    "aws_hero": true,
+    "aws_user_group_leader": true
+  }
+}
