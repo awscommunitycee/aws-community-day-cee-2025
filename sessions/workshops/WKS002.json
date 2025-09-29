@@ -2,8 +2,8 @@
   "id": "WKS002",
   "title": "AWS Account Management with the AWS Console Mobile App",
   "stage": "workshops",
-  "start_time": "11:45",
-  "end_time": "12:15",
+  "start_time": "11:40",
+  "end_time": "12:10",
   "duration_minutes": 30,
   "speaker_ids": [
     "csaba-szegedi"
