@@ -1,15 +1,14 @@
 {
   "id": "WKS004",
-  "title": "Navigating the AWS Agentic AI Marketplace: A Practical Guide",
+  "title": "Empowering Women in Tech",
   "stage": "workshops",
-  "start_time": "14:30",
-  "end_time": "16:00",
-  "duration_minutes": 90,
+  "start_time": "14:00",
+  "end_time": "14:30",
+  "duration_minutes": 30,
   "speaker_ids": [
-    "dr-kristof-schum",
-    "div-shekhar"
+    "linda-mohamed"
   ],
-  "abstract": "This hands-on workshop will guide you through the AWS Agentic AI Marketplace launched in July 2025. The workshop has two parts: first, participants will get to learn how to list their own agentic AI capabilities on AWS Marketplace. In the second part, we dive-deeper in a hands-on session format into the use of AI agents and tools available on the Marketplace. Participants will learn how to: - List their agentic AI related offerings - Avoid pitfalls and use best practices regarding marketplace - Navigate the marketplace interface to discover and evaluate AI agents for specific business needs - Compare different autonomous AI agents based on capabilities, pricing, and performance metrics - Deploy and configure agents for common enterprise use cases Prerequisites: - Basic AWS console familiarity - Understanding of fundamental AI/ML concepts - Active AWS account with appropriate permissions This is an intermediate-level workshop ideal for developers, solution architects, and technical decision-makers looking to leverage autonomous AI agents in their organizations, but also interested in how their work and own AI Agents can make it to the AWS Agentic AI Marketplace.",
+  "abstract": "An inspiring and hands-on session designed to empower women in the cloud industry! We’ll dive into practical strategies for fostering diversity, creating inclusive spaces, and closing the gender gap in tech. Together, we’ll explore ways to break barriers, amplify voices, and drive meaningful change. Expect insights on public speaking, content creation, organizing user groups, and building strong professional networks. Whether you’re just starting or a seasoned pro, this workshop is packed with actionable takeaways to help you grow, connect, and make an impact. Let’s learn, share, and uplift each other because the cloud needs all of us!",
   "language": "English",
   "audience_capacity": 26,
   "room": "Hajó",
