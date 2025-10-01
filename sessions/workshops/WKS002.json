@@ -8,7 +8,7 @@
   "speaker_ids": [
     "csaba-szegedi"
   ],
-  "abstract": "In cloud management, the AWS Console Mobile Application lets administrators manage AWS accounts from anywhere. This workshop explores using the mobile app to handle key tasks efficiently. Participants will learn about cost management to track budgets, Amazon Q for service queries, Amazon CloudWatch for monitoring performance, the AWS Health Dashboard for infrastructure oversight, and AWS CloudShell for command-line tasks. Designed for managing temporary AWS environments like sandbox lab accounts, this session shows how to monitor and maintain cloud resources. Attendees will gain practical skills in setting up notifications, creating cost alerts, and running AWS CLI commands via CloudShell for effective AWS account management.",
+  "abstract": "In cloud security, intrusions can lead to issues like deleted instances, unauthorized deployments, and exposed credentials. This hands-on workshop uses the AWS Console Mobile Application as a mobile tool for investigating and resolving such incidents. Participants will explore a simulated breach: trace EC2 deployments, review access logs in Amazon CloudTrail, examine logs, and revoke access as needed. You'll also learn about Amazon Q for queries, the AWS Health Dashboard for monitoring anomalies, CostExplorer to monitor costs  and CloudShell for CLI tasks. Attendees will gain practical skills in mobile forensics, containment, and remediation to better manage AWS environments.",
   "language": "English",
   "audience_capacity": 26,
   "room": "Hajó",
