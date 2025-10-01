@@ -1,14 +1,14 @@
 {
   "id": "SPR005",
-  "title": "AWS MCP Servers in Practice",
+  "title": "Fast & Curious: AWS Edition",
   "stage": "sponsor-stage",
-  "start_time": "14:30",
-  "end_time": "15:00",
+  "start_time": "13:05",
+  "end_time": "13:35",
   "duration_minutes": 30,
   "speaker_ids": [
-    "sandor-kaman"
+    "veronika-hegedus-csapo"
   ],
-  "abstract": "AWS Model Context Protocols (MCPs) servers open new ways for developers to securely interact with AWS services directly from their IDEs. In this session, we'll explore how MCPs can streamline real-world development workflows—such as provisioning resources, managing infrastructure, or querying AWS services—without leaving your development environment.",
+  "abstract": "Are you building, coding, deploying – but not sure which AWS programs could accelerate your success? As a distributor, we help partners unlock the full potential of AWS – from funding opportunities to technical enablement – so they can achieve their goals faster, whether in technology or business. And for end customers, this means working with partners who are empowered, skilled, and ready to deliver even greater value. Join us to discover how curiosity and speed can turn your AWS journey into a success story.",
   "language": "English",
   "audience_capacity": 40,
   "room": "Akvárium",
