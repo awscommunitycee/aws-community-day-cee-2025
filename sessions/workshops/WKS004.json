@@ -1,6 +1,6 @@
 {
   "id": "WKS004",
-  "title": "Empowering Women in Tech",
+  "title": "Women in Cloud: Introduction and Community Exchange",
   "stage": "workshops",
   "start_time": "14:00",
   "end_time": "14:30",
@@ -8,7 +8,7 @@
   "speaker_ids": [
     "linda-mohamed"
   ],
-  "abstract": "An inspiring and hands-on session designed to empower women in the cloud industry! We’ll dive into practical strategies for fostering diversity, creating inclusive spaces, and closing the gender gap in tech. Together, we’ll explore ways to break barriers, amplify voices, and drive meaningful change. Expect insights on public speaking, content creation, organizing user groups, and building strong professional networks. Whether you’re just starting or a seasoned pro, this workshop is packed with actionable takeaways to help you grow, connect, and make an impact. Let’s learn, share, and uplift each other because the cloud needs all of us!",
+  "abstract": "Join us for a 30-minute interactive session on Women in Cloud and AWS Women’s User Groups in Europe. We’ll share how these communities empower women in tech, why and how to start a local group, and first steps toward becoming a speaker. The last 10–15 minutes will be an open Slido-driven discussion on what women in Central & Eastern Europe need most from these initiatives.",
   "language": "English",
   "audience_capacity": 26,
   "room": "Hajó",
