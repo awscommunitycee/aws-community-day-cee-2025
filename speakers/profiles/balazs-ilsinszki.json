@@ -7,7 +7,7 @@
   "bio": "Balázs Ilsinszki is a Principal Product Manager at Bitrise, focusing on DevOps, CI/CD, and large-scale release processes. He has led major infrastructure transitions such as migrating customers to Apple Silicon build machines and delivering faster, more reliable environments for mobile developers. With over a decade of experience across engineering and product leadership, Balázs is passionate about building developer-focused solutions that scale efficiently and improve delivery speed.",
   "linkedin": "https://www.linkedin.com/in/balazsilsinszki/",
   "sessions": [
-    "SPR005"
+    "SPR006"
   ],
   "session_titles": [
     "Accelerating Mobile Development with Bitrise CI/CD on EC2 Mac"
