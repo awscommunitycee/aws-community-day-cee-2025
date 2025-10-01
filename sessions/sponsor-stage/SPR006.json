@@ -6,6 +6,7 @@
   "end_time": "14:15",
   "duration_minutes": 30,
   "speaker_ids": [
+    "adam-nemeth",
     "balazs-ilsinszki"
   ],
   "abstract": "Mobile apps are now the main way customers interact with businesses, raising expectations for fast, simple, and secure experiences. Delivering reliable apps across iOS and Android platforms helps companies stay competitive and earn user trust. Bitrise - as the leading Mobile DevOps platform - accelerates mobile development with a super secure AWS Marketplace offering that is powered by AWS EC2 Mac machines.",
