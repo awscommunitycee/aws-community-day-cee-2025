@@ -1,0 +1,19 @@
+{
+  "id": "adam-nemeth",
+  "name": "Ádám Németh",
+  "title": "Senior Solutions Architect",
+  "company": "AWS",
+  "country": "Switzerland",
+  "bio": "Adam Nemeth is a Senior Solutions Architect at AWS, where he helps global financial customers embrace cloud computing through architectural guidance and technical support. With over 24 years of IT expertise, Adam previously worked at UBS before joining AWS. He lives in Switzerland with his wife and their three children.",
+  "linkedin": "https://www.linkedin.com/in/adamnemeth/",
+  "sessions": [
+    "SPR006"
+  ],
+  "session_titles": [
+    "Accelerating Mobile Development with Bitrise CI/CD on EC2 Mac"
+  ],
+  "image": "speakers/images/adam-nemeth.jpg",
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
