@@ -1,7 +1,7 @@
 {
   "id": "csaba-szegedi",
   "name": "Csaba Szegedi",
-  "title": "Cloud Architect",
+  "title": "Founder",
   "company": "Syntax Nebula",
   "country": "Hungary",
   "bio": "With over 20 years as a developer and cloud architect, I specialize in crafting scalable, secure AWS solutions. As a Senior Cloud Architect, I prefer to automate with tools like CloudFormation, Lambda, EC2, S3, and IAM, coding in Python, Java, C#, Go, and JavaScript to optimize processes. As an AWS Community Builder, I'm dedicated to mentoring and sharing expertise. In 2024, I founded a company delivering affordable, hands-on AWS training, empowering organizations to rapidly master cloud skills through tailored, practical programs.",
@@ -10,7 +10,7 @@
     "WKS002"
   ],
   "session_titles": [
-    "AWS Account Management with the AWS Console Mobile App"
+    "CSI: AWS Intrusion Hunt - Investigate AWS Breaches on Your Mobile"
   ],
   "image": "speakers/images/csaba-szegedi.jpg",
   "aws_programs": {
