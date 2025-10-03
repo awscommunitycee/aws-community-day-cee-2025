@@ -1,0 +1,20 @@
+{
+  "id": "pubudu-jayawardana",
+  "name": "Pubudu Jayawardana",
+  "title": "Senior Cloud Engineer",
+  "company": "PostNL",
+  "country": "Netherlands",
+  "bio": "Senior cloud engineer and an AWS Community Builder from Amsterdam, The Netherlands. Serverless enthusiast. Having more than a decade of commercial experience as a software developer and devops engineer. Love to build stuff on Serverless and blog/share them regularly.",
+  "linkedin": "https://www.linkedin.com/in/pubudusj/",
+  "sessions": [
+    "COM003"
+  ],
+  "session_titles": [
+    "Rearchitecting a mission critical serverless application for multi-tenancy"
+  ],
+  "image": "speakers/images/pubudu-jayawardana.jpg",
+  "aws_programs": {
+    "aws_community_builder": true,
+    "aws_new_voices": true
+  }
+}
