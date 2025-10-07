@@ -1,6 +1,6 @@
 {
   "id": "SPR003",
-  "title": "TC2 FireMan - the ultimate firewall manager for AWS",
+  "title": "TC2 FireMan - the ultimate firewall manager for AWS in the era of AI and automation",
   "stage": "sponsor-stage",
   "start_time": "11:30",
   "end_time": "12:00",
@@ -10,7 +10,7 @@
     "balint-tukacs",
     "sandor-dudas"
   ],
-  "abstract": "We demonstrate how you can simplify and unify the management of the vast number of firewall rules (including Security Group and AWS Network Firewall rules) in an enterprise-level AWS Landing Zone using TC2's FireMan tool.",
+  "abstract": "Let’s see how technologies like AI and Infrastructure as Code can be combined with cloud operational tasks to drive efficiency in daily workflows. We'll demonstrate how you can automate and derisk the management of the vast number of firewall rules for mission critical enterprise workloads (including Security Group and AWS Network Firewall rules) in a hybrid cloud landing zone using TC2's FireMan tool.",
   "language": "English",
   "audience_capacity": 40,
   "room": "Akvárium",
