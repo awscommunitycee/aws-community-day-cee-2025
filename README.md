@@ -69,7 +69,7 @@ Everything in Premium ticket plus:
 | 9:00 - 9:05 AM | Welcome Speech | Mihály Balassy |
 | 9:05 - 9:50 AM | **Opening Keynote** - Generative AI: what I learned in the last 3 years | Massimo Re Ferrè |
 | 10:00 - 10:30 AM | Serverless Security - Nyx: Cloudonauts Story | Marek Šottl |
-| 10:40 - 11:25 AM | Colorful Quantum Randomness | Jakub Gaj |
+| 10:40 - 11:25 AM | Rearchitecting a mission critical serverless application for multi-tenancy | Pubudu Jayawardana |
 | 11:35 AM - 12:20 PM | Event-Driven and Serverless in World of IoT | Jimmy Dahlqvist |
 | 12:30 - 1:00 PM | Making Sense of AWS Serverless Operations | Vadym Kazulkin |
 | 2:00 - 2:45 PM | **Amazon's Culture of Innovation** | Boaz Ziniman |
