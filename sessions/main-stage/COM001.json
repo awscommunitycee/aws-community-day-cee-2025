@@ -1,6 +1,6 @@
 {
   "id": "COM001",
-  "title": "Opening Keynote - Generative AI: what I learned in the last 3 years",
+  "title": "Opening Keynote - Forget Everything You Know About Computers: Building in the Generative AI Era",
   "stage": "main-stage",
   "start_time": "09:05",
   "end_time": "09:50",
@@ -8,7 +8,7 @@
   "speaker_ids": [
     "massimo-re-ferre"
   ],
-  "abstract": "Is generative AI a fundamental improvement in our day-by-day? Or is it just the cool tech trend which shall pass? Are generative AI assistants useful? Can they make us more productive? Can we trust them? Are developers going to be replaced? In this session Massimo will share his perspective on the new opportunities and new challenges that generative AI is bringing to the table.",
+  "abstract": "Generative AI is forcing us to rethink the very foundations of computing—what it means to program, to test, and even to “know.” This talk explores how the shift from deterministic systems to reasoning, agentic models is reshaping development practices, cost structures, and the role of the developer. From context engineering to AI economics, from “vibe coding” to specs-driven systems, we’ll trace the rapid evolution of GenAI and what it reveals about the future of software creation. Join to discover why everything you thought was stable in computing is being rewritten—faster than any technological shift before it.",
   "language": "English",
   "audience_capacity": 200,
   "room": "Üvegterem",
